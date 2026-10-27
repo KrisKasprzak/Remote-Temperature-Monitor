@@ -1,0 +1,13 @@
+# local working copy of the web page
+TempPageCopy.html
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
